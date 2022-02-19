@@ -1,0 +1,2 @@
+# typescriptPract
+sample typescript project
